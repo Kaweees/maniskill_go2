@@ -31,9 +31,6 @@ ignore = [
   "SIM118", # Checks for key-existence checks against dict.keys() calls
 ]
 
-[lint.isort]
-known-first-party = ["modern_python", "core"]
-
 [lint.pydocstyle]
 convention = "google"
 

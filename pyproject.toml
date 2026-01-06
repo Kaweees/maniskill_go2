@@ -1,7 +1,7 @@
 [project]
-name = "maniskill-go2"
+name = "go2_maniskill"
 version = "0.1.0"
-description = "Add your description here"
+description = "ManiSkill tasks for the Unitree Go2."
 authors = [
   { name = "Miguel Villa Floran", email = "miguel.villafloran@gmail.com" },
 ]

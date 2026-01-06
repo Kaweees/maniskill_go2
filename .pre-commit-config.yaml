@@ -63,4 +63,4 @@ repos:
       - id: ruff-format
       # Then linting + autofixes
       - id: ruff
-        args: ["--output-format=full", "--fix", "--config", "ruff.toml"]
+        args: ["--output-format=full", "--fix", "--unsafe-fixes", "--config", "ruff.toml"]
